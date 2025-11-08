@@ -1,0 +1,1 @@
+0 16-23/2 * * 1-5 /Users/jiatang/Desktop/projects/qlib/qlib/data_loader/load_data.sh >> /Users/jiatang/Desktop/projects/qlib/qlib/data_loader/update.log 2>&1
