@@ -1,0 +1,1 @@
+mlflow server --host 0.0.0.0 --port 5001 --serve-artifacts --gunicorn-opts "--log-level debug"
